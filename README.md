@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - System Administrators Department
 - Level II Support Team
 - Configuring new Agents
-- Item 5
+- Setting SLA's
 
 <h2>Configuration Steps</h2>
 
@@ -61,9 +61,9 @@ Here as demostrated, I configured a new agent John Doe. John Doe has limited acc
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ococ5On.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this last step I will be displaying is setting SLA's. In this particular SLA, i set it to severity A with a 1 hour grace period, shceduled to be done within the days time.
 </p>
 <br />
