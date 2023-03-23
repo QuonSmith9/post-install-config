@@ -22,8 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Supreme Admin Role
 - System Administrators Department
-- Item 3
-- Item 4
+- Level II Support Team
+- Configuring new Agents
 - Item 5
 
 <h2>Configuration Steps</h2>
